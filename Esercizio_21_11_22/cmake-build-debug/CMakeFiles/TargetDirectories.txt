@@ -1,0 +1,3 @@
+C:/Users/simoc/Desktop/Industrial_Informatic/Esercizio_21_11_22/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/simoc/Desktop/Industrial_Informatic/Esercizio_21_11_22/cmake-build-debug/CMakeFiles/Esercizio_21_11_22.dir
+C:/Users/simoc/Desktop/Industrial_Informatic/Esercizio_21_11_22/cmake-build-debug/CMakeFiles/rebuild_cache.dir
